@@ -1,4 +1,4 @@
-,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+CITY_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
 0,Viedma,-40.8135,-62.9967,70.32,73,71,17.38,AR,1614690579
 1,Port Moresby,-9.4431,147.1797,75.2,94,40,5.75,PG,1614690409
 2,Bassar,9.25,0.7833,96.8,16,0,11.5,TG,1614690579
